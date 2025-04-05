@@ -34,7 +34,7 @@
 - ![Screenshot 2025-04-05 100612](https://github.com/user-attachments/assets/a47270ba-5b9a-4f00-a8c0-1500e7b9a01c)
 - after that click on 'send' to send message and get a response.
 - The response is provided like:
-- ![Screenshot 2025-04-05 100630](https://github.com/user-attachments/assets/992868f3-3eb9-489b-8362-975c13ded79f)
+- ![Screenshot 2025-04-05 100630-copy](https://github.com/user-attachments/assets/992868f3-3eb9-489b-8362-975c13ded79f)
 
 
 
