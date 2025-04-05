@@ -115,15 +115,10 @@ To tackle these challenges, we have developed a robust AI-powered telemedicine p
   - Hospital data is retrieved and displayed on an interactive map with markers indicating.
 
 
-#### **2.Internal Process:**
-- AI processes the input using Natural Language Processing (NLP).
-- Fine-tunes the response based on the context of the conversation.
-
 #### **3. Output & Response Generation**
 - It provides Hospital locations marked with pins.
 - Users can click on a hospital marker to get further details and step-by-step directions via Google Maps.
-for more detail visit: [Open Local README](file:///D:/react/Medihub-PlatForm-main/Docs/Navigation/README.md)
-
+for more detail visit:[Navigation](./docs/Navigation/README.md)
 
 
 
