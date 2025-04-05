@@ -104,7 +104,7 @@ To tackle these challenges, we have developed a robust AI-powered telemedicine p
   - Mental health advice and coping mechanisms.
   - Recommendations for professional consultation if necessary.
   - AI-driven empathetic conversations for emotional support.
-   for more detail visit: [Chatbot Module](../Chatbot/README.md)
+   for more detail visit: ***[Chatbot](../Chatbot/README.md)***
 ### **C. Find Nearby Hospitals Process Flow**
 
 #### **1. Accessing the Location of Nearby Hospitals:**
@@ -113,11 +113,12 @@ To tackle these challenges, we have developed a robust AI-powered telemedicine p
   - Once granted, the app fetches the latitude and longitude to search for nearby hospitals within a specified radius.
   - Hospital data is retrieved and displayed on an interactive map with markers indicating.
 
+![Screenshot 2025-04-04 152833](https://github.com/user-attachments/assets/5c8881d3-0dcb-4870-a5a1-7a03d82d5d24)
 
 #### **3. Output & Response Generation**
 - It provides Hospital locations marked with pins.
 - Users can click on a hospital marker to get further details and step-by-step directions via Google Maps.
-for more detail visit:[Navigation Module](../Navigation/README.md)
+for more detail visit:***[Navigation](../Navigation/README.md)***
 
 
 
