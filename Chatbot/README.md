@@ -1,0 +1,42 @@
+### **B. Chatbot Process Flow**
+
+#### **1. User Input Handling**
+- The chatbot accepts:
+  - **Text Input: Type a message in the text box.![Screenshot 2025-04-03 225957](https://github.com/user-attachments/assets/f5153e10-ca17-414a-a5de-fba298a2ab61)
+
+  - **Emoji Input: Select an emoji from the emoji picker.
+  -Emoji Picker icon as shown in below image.
+  - ![Screenshot 2025-04-03 231545](https://github.com/user-attachments/assets/2c84e88a-dca1-488e-95a4-f2698750b6d4)
+
+  - **Voice Input: Click on the microphone icon to speak.
+  - ![Screenshot 2025-04-03 231552](https://github.com/user-attachments/assets/39d2b555-f9cd-4e35-8216-3e48d7b770d9)
+  - Hold the microphone icon(as shown in the above image) for recording the voice.
+  - it will record the voice for 3 seconds.for further recording you have to hold mic again.
+  - 
+
+
+#### **2. AI Analysis & Fine-Tuning**
+- AI processes the input using Natural Language Processing (NLP).
+- Fine-tunes the response based on the context of the conversation.
+
+#### **3. Output & Response Generation**
+- The chatbot provides a response based on the condition:
+  - Mental health advice and coping mechanisms.
+  - Recommendations for professional consultation if necessary.
+  - AI-driven empathetic conversations for emotional support.
+ 
+  - ![image](https://github.com/user-attachments/assets/540cf783-d34f-480e-b712-dab6cfbd1aff)
+
+- MediHub Chatbot window looks like:
+- ![Screenshot 2025-04-05 100542](https://github.com/user-attachments/assets/2288d8aa-317c-45a9-bad7-e0ff7461a0ba)
+- 'Add a message' either Text input/emoji input/voice input:
+- Here text input is provided as:
+- ![Screenshot 2025-04-05 100612](https://github.com/user-attachments/assets/a47270ba-5b9a-4f00-a8c0-1500e7b9a01c)
+- after that click on 'send' to send message and get a response.
+- The response is provided like:
+- ![Screenshot 2025-04-05 100630](https://github.com/user-attachments/assets/992868f3-3eb9-489b-8362-975c13ded79f)
+
+
+
+
+---
