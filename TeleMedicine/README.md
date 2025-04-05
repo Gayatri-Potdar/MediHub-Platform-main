@@ -94,10 +94,13 @@ To tackle these challenges, we have developed a robust AI-powered telemedicine p
   - **Text Input: Type a message in the text box.
   - **Emoji Input: Select an emoji from the emoji picker.
   - **Voice Input: Click on the microphone icon to speak.
+
  
 #### **2. AI Analysis & Fine-Tuning**
 - AI processes the input using Natural Language Processing (NLP).
 - Fine-tunes the response based on the context of the conversation.
+
+![Screenshot 2025-04-05 100542 - Copy](https://github.com/user-attachments/assets/48cf7d63-6e86-4127-9967-0364fe79e924)
 
 #### **3. Output & Response Generation**
 - The chatbot provides a response based on the condition:
