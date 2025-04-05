@@ -28,13 +28,15 @@
   - ![image](https://github.com/user-attachments/assets/540cf783-d34f-480e-b712-dab6cfbd1aff)
 
 - MediHub Chatbot window looks like:
-- ![Screenshot 2025-04-05 100542](https://github.com/user-attachments/assets/2288d8aa-317c-45a9-bad7-e0ff7461a0ba)
+-![Screenshot 2025-04-05 100542 - Copy](https://github.com/user-attachments/assets/e6f55de0-1463-4625-81ed-5281128fcac6)
+
 - 'Add a message' either Text input/emoji input/voice input:
 - Here text input is provided as:
-- ![Screenshot 2025-04-05 100612](https://github.com/user-attachments/assets/a47270ba-5b9a-4f00-a8c0-1500e7b9a01c)
+- ![Screenshot 2025-04-05 100612](https://github.com/user-attachments/assets/fbc38b7b-f81f-4ab2-beb0-1dc203d67627)
+
 - after that click on 'send' to send message and get a response.
 - The response is provided like:
-- ![Screenshot 2025-04-05 100630-copy](https://github.com/user-attachments/assets/992868f3-3eb9-489b-8362-975c13ded79f)
+-![Screenshot 2025-04-05 100542 - Copy](https://github.com/user-attachments/assets/a65018c1-6d6a-42a3-a781-8f6fe25159e3)
 
 
 
