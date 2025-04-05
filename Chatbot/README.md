@@ -36,7 +36,8 @@
 
 - after that click on 'send' to send message and get a response.
 - The response is provided like:
--![Screenshot 2025-04-05 100542 - Copy](https://github.com/user-attachments/assets/a65018c1-6d6a-42a3-a781-8f6fe25159e3)
+-![Screenshot 2025-04-05 100630 - Copy](https://github.com/user-attachments/assets/e3413ee2-dfda-42cf-a238-8adba6288330)
+
 
 
 
